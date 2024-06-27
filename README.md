@@ -1,5 +1,5 @@
-`# DevOps_aws`
-# CI/CD pipeline in AWS to deploy a simple website to an EC2 instance using Apache.
+# `# DevOps_aws`
+## CI/CD pipeline in AWS to deploy a simple website to an EC2 instance using Apache.
 
 ### Step1: Create an EC2 Instance and Download the Key Pair.
 
